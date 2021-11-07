@@ -16,6 +16,10 @@ This is simple text of file.
 - [Java](https://www.java.com/en/)
 
 # Pre-Requisite
+- [Install JDK](https://www.oracle.com/java/technologies/downloads/)
+- [Install Oracle](https://docs.oracle.com)
+- [Install MongoDb](https://www.mongodb.com)
+- [Configuration JDBC](https://www.ibm.com/docs/en/tivoli-monitoring/6.3.0?topic=jdbc-configuration)
 
 
 # License
